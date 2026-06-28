@@ -52,7 +52,7 @@
 <img width="570" height="322" alt="Screenshot 2026-06-28 at 11 52 39 AM" src="https://github.com/user-attachments/assets/771582a1-162c-4527-b06a-6118db7cbcd8" />
 
 
-The squishy calculator is a small project made in godot 5 using the SoftBody2D Addon
+The squishy calculator is a small project made in godot 4.5 using the SoftBody2D Addon
 
 
 
