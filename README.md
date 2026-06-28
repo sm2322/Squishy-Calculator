@@ -34,7 +34,7 @@
     A simple calculator built in godot with soft body physics
     <br />
     <br />
-    <a href="https://github.com/sm2322/Squishy-Calculator">View Demo</a>
+    <a href="https://immortalsheepstudios.itch.io/squishy-calculator">View Demo on Itch</a>
     &middot;
     <a href="https://github.com/sm2322/Squishy-Calculator/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
@@ -52,7 +52,7 @@
 <img width="570" height="322" alt="Screenshot 2026-06-28 at 11 52 39 AM" src="https://github.com/user-attachments/assets/771582a1-162c-4527-b06a-6118db7cbcd8" />
 
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `sm2322`, `Squishy-Calculator`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
+The squishy calculator is a small project made in godot 5 using the SoftBody2D Addon
 
 
 
@@ -61,51 +61,22 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To edit a version of the project, use godot!
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+ - Godot
+ - Git Version Control
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/sm2322/Squishy-Calculator.git
    ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin sm2322/Squishy-Calculator
-   git remote -v # confirm the changes
-   ```
+2. Open the project folder in godot with the 'Import' option
 
 
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/sm2322/Squishy-Calculator/issues) for a full list of proposed features (and known issues).
 
 
 
@@ -124,10 +95,6 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the project_license. See `LICENSE.txt` for more information.
+## Ai use declaration
+Copilot was used for basic debugging and writing git merge summaries, all features and ideas were created by hand :)
 
