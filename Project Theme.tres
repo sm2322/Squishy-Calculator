@@ -1,0 +1,7 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://j4074jid50l8"]
+
+[ext_resource type="FontFile" uid="uid://cmj5prf7bx8x5" path="res://monogram.ttf" id="1_vfmua"]
+
+[resource]
+default_font = ExtResource("1_vfmua")
+default_font_size = 48
