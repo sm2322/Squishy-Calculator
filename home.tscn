@@ -1996,16 +1996,16 @@ resource_local_to_scene = true
 script = ExtResource("1_1ey7h")
 
 [node name="ColorRect" type="ColorRect" parent="."]
-offset_right = 1278.0
-offset_bottom = 774.0
+offset_right = 2068.0
+offset_bottom = 1108.0
 color = Color(0.68021226, 0.51545006, 0.17259687, 1)
 
 [node name="Panel" type="Panel" parent="."]
 material = SubResource("ShaderMaterial_w1mvj")
 offset_left = -3.0
 offset_top = -6.0
-offset_right = 1213.0
-offset_bottom = 716.0
+offset_right = 1669.0
+offset_bottom = 918.0
 
 [node name="NinePatchRect" type="NinePatchRect" parent="."]
 offset_left = 252.0
@@ -2017,7 +2017,7 @@ texture = ExtResource("3_lxycn")
 [node name="StaticBody2D" type="StaticBody2D" parent="."]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
-position = Vector2(581, 670)
+position = Vector2(583, 670)
 shape = SubResource("RectangleShape2D_1ey7h")
 
 [node name="3" type="Polygon2D" parent="."]
@@ -11015,7 +11015,7 @@ metadata/_local_pose_override_enabled_ = true
 [node name="Bone-1" type="Bone2D" parent="minus/Skeleton2D"]
 position = Vector2(8.660278, 15)
 rotation = 0.71372527
-scale = Vector2(0.9999998, 0.9999998)
+scale = Vector2(0.99999976, 0.99999976)
 rest = Transform2D(0.75592893, 0.65465367, -0.65465367, 0.75592893, 8.660255, 15)
 auto_calculate_length_and_angle = false
 length = 30.0
