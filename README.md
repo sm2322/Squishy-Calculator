@@ -49,7 +49,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img width="570" height="322" alt="Screenshot 2026-06-28 at 11 52 39 AM" src="https://github.com/user-attachments/assets/771582a1-162c-4527-b06a-6118db7cbcd8" />
+
 
 Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `sm2322`, `Squishy-Calculator`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
 
